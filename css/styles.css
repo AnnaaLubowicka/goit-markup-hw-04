@@ -160,7 +160,7 @@ li.list-nav-item {
     background-image:linear-gradient(
         rgba(98, 100, 110, 0.4),
         rgba(98, 100, 110, 0.4)),
-    url(images/img.jpg);
+    url(../images/Img.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
