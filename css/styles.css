@@ -157,9 +157,9 @@ li.list-nav-item {
     display: flex;
     height: 600px;
     padding: 94px 0;
-    background-image:linear-gradient(
+    background-image:/*linear-gradient(
         rgba(98, 100, 110, 0.4),
-        rgba(98, 100, 110, 0.4)),
+        rgba(98, 100, 110, 0.4)),*/
     url('images/Img.jpg');
     background-size: cover;
     background-position: center;
