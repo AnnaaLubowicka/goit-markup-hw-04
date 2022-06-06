@@ -164,7 +164,7 @@ li.list-nav-item {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: rgba(98, 100, 110, 0.4);  
+    /*background-color: rgba(98, 100, 110, 0.4);*/
 } 
 
 button {
